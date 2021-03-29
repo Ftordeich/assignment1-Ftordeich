@@ -1,19 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a23252e5-51f0-46ba-bb54-6f7eca6bd6cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ictgradschool/industry/assignment01/problems/AssignmentOnePartOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ictgradschool/industry/assignment01/problems/AssignmentOnePartOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ictgradschool/industry/assignment01/problems/AssignmentOnePartThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ictgradschool/industry/assignment01/problems/AssignmentOnePartThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ictgradschool/industry/assignment01/problems/AssignmentOnePartTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ictgradschool/industry/assignment01/problems/AssignmentOnePartTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ictgradschool/industry/assignment01/problems/TestAssignmentOnePartOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ictgradschool/industry/assignment01/problems/TestAssignmentOnePartOne.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1lM5g2wbYsEEE53ip3hMpYEnoVN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1607394238530">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-113.1920.1160@0.0.1920.1040" timestamp="1607394238530" />
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAssignmentOnePartOne.testDivideTwoInts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="industry-assignment-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ictgradschool.industry.assignment01.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ictgradschool.industry.assignment01.problems" />
+      <option name="MAIN_CLASS_NAME" value="ictgradschool.industry.assignment01.problems.TestAssignmentOnePartOne" />
+      <option name="METHOD_NAME" value="testDivideTwoInts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAssignmentOnePartOne.testDivideTwoInts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a23252e5-51f0-46ba-bb54-6f7eca6bd6cd" name="Default Changelist" comment="" />
+      <created>1617007520734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617007520734</updated>
+      <workItem from="1617007522008" duration="4197000" />
+      <workItem from="1617011784488" duration="33000" />
+      <workItem from="1617011822089" duration="4753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

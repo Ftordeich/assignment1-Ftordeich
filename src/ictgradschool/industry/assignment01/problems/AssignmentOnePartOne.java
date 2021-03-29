@@ -13,28 +13,47 @@ package ictgradschool.industry.assignment01.problems;
  */
 public class AssignmentOnePartOne {
 
+    private int dividend;
+    private int divisor;
+
     /**
      * Q1. Complete the method divideTwoInts, that will, when given two integer parameters,
      * return the quotient, which is also an integer.
      */
-    public int divideTwoInts(int dividend, int divisor) {
+    public int divideTwoInts(int dividend, int divisor, int divideTwoInts) {
         int quotient = 0;
-        // Answer here
+        dividend = 10;
+        divisor = 2;
 
-        //
-        return quotient;
+        private divideTwoInts (10 / divisor: 2)
+
+        return divideTwoInts = (int) dividend / (int) divisor;
+        System.out.println (divideTwoInts(int) dividend/ (int) divisor)
+
     }
+
+
+
 
     /**
      * Q2. Complete the method called multiplyTwoDoubles that will, when given two double parameters,
      * return their product as an integer.
      */
-    public int multiplyTwoDoubles(double multiplicand, double multiplier) {
-        int product = 0;
-        // Answer here
+    public int multiplyTwoDoubles() {
+        int product = 10;
+        int a = 5;
+        int b = 2;
 
-        //
+        private void (multiplyTwoDoubles (Math.max (2*5));
+
+        int twoDoubles =  (a*b);
+        public max (5*2)
+        /*  */
         return product;
+        System.out.println (product) = multiplyTwoDoubles (5*2);
+    }
+
+    private void max(int i) {
     }
 
     /**
@@ -43,7 +62,12 @@ public class AssignmentOnePartOne {
      */
     public int maxOfTwoNumbers(int numberOne, int numberTwo) {
         // Answer here
-        return 0;
+        int (numberOne) = 1;
+        int (numberTwo) = 1;
+        Math.max (numberOne + numberTwo);
+        return equals (maxOfTwoNumbers (numberOne + numberTwo));
+        System.out.println (maxOfTwoNumbers (numberOne + numberTwo));
+
         //
     }
 
@@ -51,10 +75,17 @@ public class AssignmentOnePartOne {
      * Q4. Complete the method convertCharToString that takes a character parameter and returns a String consisting of
      * just that character. Hint: Understand how string concatenation works in Java.
      */
-    public String convertCharToString(char character) {
+    public String convertCharToString() {
         // Answer here
-        return "";
+        (String)  = '9';
+        convertCharToString (a);
+        String convertCharToString = a;
+        return convertCharToString
+        System.out.println (convertCharToString (a));
         //
+    }
+    private String convertCharToString(int i) {
+        return "a";
     }
 
     /**
@@ -63,18 +94,34 @@ public class AssignmentOnePartOne {
      */
     public String getFirstThreeLetters(String text) {
         // Answer here
-        return "";
+        text = "hello my name is Felix";
+        Object getFirstThreeLetters;
+        getFirstThreeLetters,(0,4) {
+            String s = "Hello my name is Felix";
+            return s;
+            System.out.println (getFirstThreeLetters);
         //
+    }
+
+
     }
 
     /**
      * Q6. Complete the method legalToBuyDrinks that takes an integer parameter representing a person's age
      * and returns a boolean value: true if the person is old enough to buy alcohol in New Zealand (minimum age 18)
      * otherwise false.
+     * @return
      */
     public boolean legalToBuyDrinks(int age) {
         // Answer here
-        return false;
+        int age = 18;
+        if (age > 18) {
+         return legalToBuyDrinks (>18) = true;
+        }
+        else { legalToBuyDrinks (<18)
+        })
+        return (boolean) legalToBuyDrinks (>18);
+        System.out.println (boolean);
         //
     }
 
@@ -85,9 +132,27 @@ public class AssignmentOnePartOne {
      */
     public boolean eligibleToVote(boolean nzResident, int age) {
         // Answer here
-        return false;
+        int age = (18==150);
+        boolean b = false;
+        boolean a = true;
+        nzResident = (true);
+
+        boolean vote = eligibleToVote (true, '18==150');
+        boolean eligibleToVote = (boolean)  (18 <= 150);
+                System.out.println (eligibleToVote (true, 18 == 150)
+                );
+                if (eligibleToVote)
+                    return true;
         //
     }
+
+    private boolean (eligibleToVote) {
+        if (boolean) = false;
+        else
+
+        return null;
+    }
+
 
     /**
      * Q8. Complete the method called implies that takes two boolean parameters a and b,

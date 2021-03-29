@@ -31,6 +31,8 @@ public class AssignmentOnePartTwo {
      */
     public boolean isLeapYear(int year) {
         // Answer here
+        int y = 365;
+        if (year) = (365/4);
         return false;
         //
     }

@@ -26,9 +26,9 @@ public class TestAssignmentOnePartOne {
 
     @Test
     public void testMultiplyTwoDoubles() {
-        assertEquals(0, assignmentOnePartOne.multiplyTwoDoubles(123.0, 0.0));
-        assertEquals(11, assignmentOnePartOne.multiplyTwoDoubles(1.56984, 7.12));
-        assertEquals(1, assignmentOnePartOne.multiplyTwoDoubles(5.1, 0.25));
+        assertEquals(0, assignmentOnePartOne.multiplyTwoDoubles());
+        assertEquals(11, assignmentOnePartOne.multiplyTwoDoubles());
+        assertEquals(1, assignmentOnePartOne.multiplyTwoDoubles());
     }
 
     @Test
@@ -40,9 +40,9 @@ public class TestAssignmentOnePartOne {
 
     @Test
     public void testConvertCharToString() {
-        assertEquals("a", assignmentOnePartOne.convertCharToString('a'));
-        assertEquals("9", assignmentOnePartOne.convertCharToString('9'));
-        assertEquals("A", assignmentOnePartOne.convertCharToString('\u0041'));
+        assertEquals("a", assignmentOnePartOne.convertCharToString());
+        assertEquals("9", assignmentOnePartOne.convertCharToString());
+        assertEquals("A", assignmentOnePartOne.convertCharToString());
     }
 
     @Test

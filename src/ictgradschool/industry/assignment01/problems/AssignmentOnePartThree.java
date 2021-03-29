@@ -20,7 +20,13 @@ public class AssignmentOnePartThree {
      */
     public int findOccurrenceOfACharacter(String searchString, char targetChar) {
         //Answer here
-        return 0;
+        public findOccurrenceOfACharacter ("Hello World", (char) 2);
+        return 0; if () {
+            findOccurrenceOfACharacter ("Hello World", <0
+        } else {
+            findOccurrenceOfACharacter ("Hello World", =0
+        } )
+        System.out.println (findOccurrenceOfACharacter ("Hello World"));
         //
     }
 
